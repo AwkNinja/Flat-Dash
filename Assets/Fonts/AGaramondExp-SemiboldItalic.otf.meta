@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: a9460f693cf162c4caab7dfc88a3d0ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Adobe Garamond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8662941c15db08a479822980758013dd, type: 3}
+  - {fileID: 12800000, guid: 40a9d18a6eb9add419f84513ecabaa33, type: 3}
+  - {fileID: 12800000, guid: 0521082025cac72409d1aa151b4470f4, type: 3}
+  - {fileID: 12800000, guid: a44f67a44b6d5f144a2fe693a10fe0d4, type: 3}
+  - {fileID: 12800000, guid: a41e11aee6d234e44a52ad3659a86cd3, type: 3}
+  - {fileID: 12800000, guid: f5aec9d7326cbee45a5a2d5c68d3f68e, type: 3}
+  - {fileID: 12800000, guid: 29dfedb5801559741bd4f02731164f5b, type: 3}
+  - {fileID: 12800000, guid: 23036f79a0fd0dc4880b665f94546948, type: 3}
+  - {fileID: 12800000, guid: 117556e5ab8cf6942af4a70d360276d2, type: 3}
+  - {fileID: 12800000, guid: 64b2f743e7e3a9d4c861cbfb8f6d87df, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
